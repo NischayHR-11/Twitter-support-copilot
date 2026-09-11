@@ -1,0 +1,31 @@
+{
+  "golden_set_size": 204,
+  "baseline_full_set_accuracy": {
+    "n": 204,
+    "trivial_accuracy": 0.1568627450980392,
+    "simple_accuracy": 0.8578431372549019
+  },
+  "subsample_size": 40,
+  "subsample_seed": 123,
+  "classifier_accuracy_on_subsample": {
+    "trivial": 0.1,
+    "simple": 0.85,
+    "gemini": 0.975
+  },
+  "escalation_policy": {
+    "true_positive": 3,
+    "false_positive": 4,
+    "false_negative": 4,
+    "true_negative": 29,
+    "precision": 0.42857142857142855,
+    "recall": 0.42857142857142855,
+    "f1": 0.42857142857142855
+  },
+  "reply_quality_mean_scores": {
+    "groundedness": 4.666666666666667,
+    "correctness": 4.848484848484849,
+    "tone": 5.0,
+    "actionability": 4.787878787878788
+  },
+  "reply_quality_n": 33
+}

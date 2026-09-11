@@ -1,0 +1,17 @@
+{
+  "n_examples": 33,
+  "exact_match_rate_all_4_axes": 0.7575757575757576,
+  "within_1_point_agreement_rate": 0.9393939393939394,
+  "mean_absolute_difference_per_axis": {
+    "groundedness": 0.24242424242424243,
+    "correctness": 0.30303030303030304,
+    "tone": 0.06060606060606061,
+    "actionability": 0.2727272727272727
+  },
+  "exact_match_rate_per_axis": {
+    "groundedness": 0.8484848484848485,
+    "correctness": 0.8484848484848485,
+    "tone": 0.9393939393939394,
+    "actionability": 0.7878787878787878
+  }
+}
