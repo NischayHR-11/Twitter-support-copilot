@@ -4,7 +4,7 @@ An AI support agent for a Twitter customer-support handle (modeled on **@AmazonH
 
 Built for the Hiver SDE Intern take-home assignment.
 
-> **⚠️ Important disclosure up front:** the real Kaggle *Customer Support on
+> **Important disclosure up front:** the real Kaggle *Customer Support on
 > Twitter* dataset requires authenticated download access that wasn't
 > available in the build environment. Rather than skip the data-quality
 > problem, this repo generates a **synthetic-but-structurally-faithful**
